@@ -31,7 +31,7 @@ https://stackoverflow.com/questions/28089942/difference-between-fill-and-expand-
 ### Close a tkinter window, to close the app with a button
 https://stackoverflow.com/questions/110923/how-do-i-close-a-tkinter-window
 ### Bind keys to perform some actions
-https://www.geeksforgeeks.org/bindingfunction-with-double-click-with-tkinterlistbox/
+https://www.geeksforgeeks.org/binding-function-with-double-click-with-tkinter-listbox/
 
 
 
