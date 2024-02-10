@@ -57,12 +57,13 @@ Realized by Henrique D.M.M (me), Latifa B., Nizar A. and Viktoria I. (my teammat
 <br><br>
 
 ## Demo images
-### demo0: Start screen
-
-### demo1: Todolist menu, you can see the tasks contained in the todolist "todo0", each completed task gives you 1 point
-
-### demo2: tamagotchi menu, where you can see his hunger and the amount of points earned, you can see the pet and the background elements (all customizable)
-
-### demo3: you can customize everything, just give it a try !
-
-### demo4: to obtain more customizable elements, you can go to the shop to buy some, it'll cost some points
+### Start screen
+![Alt text](./demo_images/demo0.png)
+### Todolist menu, you can see the tasks contained in the todolist "todo0", each completed task gives you 1 point
+![Alt text](./demo_images/demo1.png)
+### Tamagotchi menu, where you can see his hunger and the amount of points earned, you can see the pet and the background elements (all customizable)
+![Alt text](./demo_images/demo2.png)
+### You can customize everything, just give it a try !
+![Alt text](./demo_images/demo3.png)
+### Tto obtain more customizable elements, you can go to the shop to buy some, it'll cost some points
+![Alt text](./demo_images/demo4.png)
