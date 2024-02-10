@@ -6,6 +6,7 @@ My first big project that i've done with 3 friends whithin an month and a half, 
 The todolists part is simple but do the job, there aren't any advanced features that you may see in your usual todolist app, the tamagotchi part is simpler than the original concept in the way you only have to care about their hunger and there is not an evolve and death systems, however you can have several pets (only one at the time on the screen and choose which one to display), and also customizable background elements (such as the walls, the floor, a piece of furniture)
 
 All the elements and pets can be bought in the shop for some points (the same used to feed your pet), which is also pretty simple, you have the name of the items and their prices
+<br><br>
 
 
 ## Content
@@ -18,6 +19,22 @@ Contains the data of our app
 Contains all the assets of the app, if you want to replace the current assets by your own images, be sure that they have the same names as the ones you intend to replace.
 ### demo_images
 Only related to Github to show images in the readme of this project so you can have some visuals of the app to see how it looks like
+<br><br>
+
+
+## Controls
+#### Todolists
+- Double-click (on a todolist) : Loads the tasks of the selected todolist
+- Double-click (on a todolist) : Marks a task as completed or unmarked it if already completed
+- Right-click (on a todolist) : Deletes a todolist
+- Right-click (on a task) : Deletes a task
+- Enter : Adds the task written in the entry to the loaded todolist
+#### Tamagotchi (background editing menu)
+- Double-click (on the element) : Applies the background element
+#### Shop
+- Double click (on a item): Selects an item and displays its information
+Once a item is selected, click on the "Buy" button
+<br><br>
 
 
 ## References
@@ -32,11 +49,20 @@ https://stackoverflow.com/questions/28089942/difference-between-fill-and-expand-
 https://stackoverflow.com/questions/110923/how-do-i-close-a-tkinter-window
 ### Bind keys to perform some actions
 https://www.geeksforgeeks.org/binding-function-with-double-click-with-tkinter-listbox/
-
+<br><br>
 
 
 ## Authors
 Realized by Henrique D.M.M (me), Latifa B., Nizar A. and Viktoria I. (my teammates)
-
+<br><br>
 
 ## Demo images
+### demo0: Start screen
+
+### demo1: Todolist menu, you can see the tasks contained in the todolist "todo0", each completed task gives you 1 point
+
+### demo2: tamagotchi menu, where you can see his hunger and the amount of points earned, you can see the pet and the background elements (all customizable)
+
+### demo3: you can customize everything, just give it a try !
+
+### demo4: to obtain more customizable elements, you can go to the shop to buy some, it'll cost some points
