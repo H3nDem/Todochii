@@ -39,15 +39,15 @@ Once a item is selected, click on the "Buy" button
 
 ## References
 During the developpement of the app, I've faced some problems or simply don't knew how to do some stuff
-### How to switch frames, to switch from a page to another on our app
+#### How to switch frames, to switch from a page to another on our app
 https://stackoverflow.com/questions/7546050/switch-between-two-frames-in-tkinter
-### Understanding the parent and controller concept
+#### Understanding the parent and controller concept
 https://stackoverflow.com/questions/32864610/understanding-parent-and-controllerin-tkinter-init
-### pack() function and it’s arguments, used everywhere in the code
+#### pack() function and it’s arguments, used everywhere in the code
 https://stackoverflow.com/questions/28089942/difference-between-fill-and-expand- options-for-tkinter-pack-method
-### Close a tkinter window, to close the app with a button
+#### Close a tkinter window, to close the app with a button
 https://stackoverflow.com/questions/110923/how-do-i-close-a-tkinter-window
-### Bind keys to perform some actions
+#### Bind keys to perform some actions
 https://www.geeksforgeeks.org/binding-function-with-double-click-with-tkinter-listbox/
 <br><br>
 
@@ -65,5 +65,5 @@ Realized by Henrique D.M.M (me), Latifa B., Nizar A. and Viktoria I. (my teammat
 ![Alt text](./demo_images/demo2.png)
 ### You can customize everything, just give it a try !
 ![Alt text](./demo_images/demo3.png)
-### Tto obtain more customizable elements, you can go to the shop to buy some, it'll cost some points
+### To obtain more customizable elements, you can go to the shop to buy some, it'll cost some points
 ![Alt text](./demo_images/demo4.png)
